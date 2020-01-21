@@ -1,4 +1,4 @@
-### Example only 
+### Example only 2
 
 > This content was created by Datastax as an example of how they would like to convert the deployment guide
 
