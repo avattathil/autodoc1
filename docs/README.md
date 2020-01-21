@@ -12,7 +12,7 @@
 
 <center>Aug 2019</center>
 
-<center>DataStax, Inc.</center>
+<center>DataStax, Corp.</center>
 
 <center>AWS Quick Start Reference Team</center>
 &nbsp;
