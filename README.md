@@ -1,5 +1,9 @@
-> Example only 
+### Example only 
+
 > This content was created by Datastax as an example of how they would like to convert the deployment guide
+
+### Publish Location
+
 
 
 <center><H1>DataStax Distribution of Apache Cassandra ™ on the AWS Cloud</H1></center>
