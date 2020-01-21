@@ -14,7 +14,7 @@
 
 <center>DataStax, Corp.</center>
 
-<center>AWS Quick Start Reference Team</center>
+<center>DataStax Foobar Inc Corp blah blah</center>
 &nbsp;
 &nbsp;
 
